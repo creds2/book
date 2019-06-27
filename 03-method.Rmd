@@ -1,0 +1,3 @@
+# About bookdown
+
+Bookdown is an R package and open book publishing site that already hosts dozens of books: https://bookdown.org/

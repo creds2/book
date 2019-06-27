@@ -1,0 +1,55 @@
+--- 
+title: "Energy futures: fundamentals, projections and possibilities"
+author: "CREDS"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: "This is a open source book providing an up-to-date and authoritative account of energy supply, distribution, and possibilities for rapid decarbonisation."
+---
+
+# Concept {-}
+
+The motivation for this book is the fact that reliable information is hard to find.
+It is scattered across thousands of websites, data files, minds and academic papers, making it nigh on impossible for the everyday person to make sense of the current situation, let alone decide the best course of action based on a realistic assessment of future possibilities and constraints.
+
+In the realm of energy policy, wishful thinking dominates.
+This book aims to reset the debate, to make it more evidence based, up-to-date and grounded in the latest research.
+To some extent it is a "public engagement in science" project: it will be publicly available, written in a publicly accessible style and, hopefully, popular in print and online forms.
+However, the primary target audience is decision makers across the UK who need to much better informed about what can work, and what cannot, in order to succeed in out collective commitment to decarbonise the economy by 2050, an unprecedented challenge which must rely on the latest research if it to succeed.
+
+It will have the following features:
+
+- Collaborative, with a range of researcher, centred on the CREDS project, contributing content
+- Comprehensive, covering all major aspects of the energy question, from supply to 'demand' and buildings to transport
+- Cohesive, with a consistent style, branding and messaging across chapters, unlike most books authored by multiple academics
+- Open, with the source code available for others to contribute, allowing the project to evolve as the evidence base grows.
+
+## Draft structure {-}
+
+Energy is a complex topic.
+A clear structure will help make sense of the complexity, making structure an important aspect the book.
+
+There are many ways of structuring the book, and this can be decided later down the line, but it is worth highlighing some options:
+
+- By sector, e.g. buildings, transport, materials and products.
+- By the CREDS themes, 
+    - Buildings & Energy
+    - Digital Society
+    - Flexibility
+    - Materials & Products
+    - Policy & Governance
+    - Transport & Mobility
+- The energy hierarchy: the concept of the energy hierarchy, which states that energy policies should follow an order of prioritisation, including
+    - Reducing the need for energy using services, e.g. travelling less
+    - Increasing the efficiency of existing energy conerters
+    - Replacing fossil fueled electricity generation with renewable energy converters
+- By timescale: from technologies and policies that are currently in use towards more 'blue skies' options
+
+
+
+
+
+
