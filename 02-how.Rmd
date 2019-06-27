@@ -1,0 +1,14 @@
+# How it would work
+
+A 'core book team' of CREDS, with one representative from each theme, would compile key content in a draft working document.
+A professional writing, with oversight from the core book team, would write-up the state of play, and scenarios for change, into a single narrative.
+The source code of the book and prose would be made available via a code sharing platform such as GitHub and all CREDS members would be encouraged to contribute via 'pull requests', to be reviewed by at least one other CREDS member and the professional writer.
+
+The book would be open and publicly available from the beginning.
+A 'call for contributions' would go out, inviting expert inputs.
+These would require 2 reviews before being accepted, in a process of open and transparent peer review.
+This open model would enable educational benefits to begin from the book's inception.
+
+There would be a deadline (e.g. of 12 months) after which 'V1' would be published as a physical book.
+Any profit/royalties would go back into CREDS engagement exercises.
+After publication the book would live on 
