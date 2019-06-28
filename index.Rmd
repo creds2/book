@@ -7,6 +7,7 @@ documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
+github-repo: "creds2/book"
 description: "This is a open source book providing an up-to-date and authoritative account of energy supply, distribution, and possibilities for rapid decarbonisation."
 ---
 
